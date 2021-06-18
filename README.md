@@ -1,4 +1,4 @@
-# NodeJS & PostgreSQL API REST with ORM Sequelize [ practice project ]
+# NodeJS & PostgreSQL API REST with ORM Sequelize
 
 ![](https://res.cloudinary.com/cozyplace/image/upload/v1624047478/maxresdefault_cyc4nl.jpg)
 
