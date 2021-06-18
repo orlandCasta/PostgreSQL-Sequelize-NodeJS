@@ -1,4 +1,7 @@
 # Practice project
+
+![](https://res.cloudinary.com/cozyplace/image/upload/v1624047478/maxresdefault_cyc4nl.jpg)
+
 Creation of REST API with Node.js and Express.js as main technologies in the backend, this api connects to a PostgreSQL database that should be hosted on your localhost with the name of Desarrollos, the backend interacts with the database through an ORM in this case Sequelize was used
 
 ## Things that you need: Things
